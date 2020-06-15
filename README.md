@@ -1,4 +1,4 @@
-# Extensoes
+# Extensões
 
 Extensões para o google chrome, disponíveis na Chrome Web Store.
 
